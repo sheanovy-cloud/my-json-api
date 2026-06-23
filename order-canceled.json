@@ -1,83 +1,73 @@
 {
   "orders": [
     {
-      "order_id": "ACME-1001",
-      "product_name": "Rocket Skates",
+      "order_id": "LC-1001",
+      "product_name": "Lazer Tag Starter Kit",
       "order_status": "New",
       "expected_delivery_date": "2026-05-08",
-      "tracking_number": "TRK-ACME-1001",
       "time_since_ordered_hours": 18
     },
     {
-      "order_id": "ACME-1002",
-      "product_name": "Portable Hole",
+      "order_id": "LC-1002",
+      "product_name": "Stealth Vest Pack",
       "order_status": "processed",
       "expected_delivery_date": "2026-05-10",
-      "tracking_number": "TRK-ACME-1002",
       "time_since_ordered_hours": 27
     },
     {
-      "order_id": "ACME-1003",
-      "product_name": "Anvil Package",
+      "order_id": "LC-1003",
+      "product_name": "Target Beacon Set",
       "order_status": "processed",
       "expected_delivery_date": "2026-05-03",
-      "tracking_number": "TRK-ACME-1003",
       "time_since_ordered_hours": 42
     },
     {
-      "order_id": "ACME-1004",
-      "product_name": "Jet Propelled Unicycle",
+      "order_id": "LC-1004",
+      "product_name": "Photon Blaster Bundle",
       "order_status": "New",
       "expected_delivery_date": "2026-05-07",
-      "tracking_number": "TRK-ACME-1004",
       "time_since_ordered_hours": 9
     },
     {
-      "order_id": "ACME-1005",
-      "product_name": "Dehydrated Boulder",
+      "order_id": "LC-1005",
+      "product_name": "Arena Smoke Bombs",
       "order_status": "processed",
       "expected_delivery_date": "2026-05-12",
-      "tracking_number": "TRK-ACME-1005",
       "time_since_ordered_hours": 51
     },
     {
-      "order_id": "ACME-1006",
-      "product_name": "Exploding Tennis Balls",
+      "order_id": "LC-1006",
+      "product_name": "Recharge Dock",
       "order_status": "New",
       "expected_delivery_date": "2026-05-09",
-      "tracking_number": "TRK-ACME-1006",
       "time_since_ordered_hours": 22
     },
     {
-      "order_id": "ACME-1007",
-      "product_name": "Acme Rocket Fuel",
+      "order_id": "LC-1007",
+      "product_name": "Night Vision Goggles",
       "order_status": "processed",
       "expected_delivery_date": "2026-05-02",
-      "tracking_number": "TRK-ACME-1007",
       "time_since_ordered_hours": 36
     },
     {
-      "order_id": "ACME-1008",
-      "product_name": "Invisible Paint",
+      "order_id": "LC-1008",
+      "product_name": "Signal Flare Pack",
       "order_status": "New",
       "expected_delivery_date": "2026-05-11",
-      "tracking_number": "TRK-ACME-1008",
       "time_since_ordered_hours": 14
     },
     {
-      "order_id": "ACME-1009",
-      "product_name": "Spring-Loaded Shoes",
+      "order_id": "LC-1009",
+      "product_name": "Respawn Token Bundle",
       "order_status": "processed",
       "expected_delivery_date": "2026-05-06",
-      "tracking_number": "TRK-ACME-1009",
       "time_since_ordered_hours": 31
     },
     {
-      "order_id": "ACME-1010",
-      "product_name": "Tunnel Kit",
+      "order_id": "LC-1010",
+      "product_name": "Arena Map Kit",
       "order_status": "New",
       "expected_delivery_date": "2026-05-08",
-      "tracking_number": "TRK-ACME-1010",
       "time_since_ordered_hours": 7
     }
   ]
